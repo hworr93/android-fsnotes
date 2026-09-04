@@ -1,0 +1,6 @@
+{
+  "name": "FSNotes for Android",
+  "description": "A fast, open plain-text and Markdown notes manager ported to Android with Material You design, tags, folders, live preview, and encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
