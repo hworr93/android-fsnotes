@@ -1,8 +1,9 @@
-node_modules/
+.gradle/
 build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+*/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
